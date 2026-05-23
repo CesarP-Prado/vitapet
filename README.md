@@ -23,3 +23,6 @@ Para que el producto cumpla su función mínima viable, se han definido las sigu
 
 ### Métrica de Éxito
 Sabremos que el MVP funcionó si logramos que los usuarios registrados **reduzcan en un 40% los olvidos o retrasos en las dosis de medicamentos y citas de higiene** durante el primer mes de uso activo, medido a través del indicador de tareas completadas dentro de la misma aplicación.
+
+## Tablero Operativo
+[Enlace a nuestro tablero activo en Jira](https://jepack.atlassian.net/jira/software/projects/VT/boards/35)
