@@ -49,6 +49,8 @@ El diseño sigue un estilo **minimalista y limpio** inspirado en aplicaciones mo
 | **Navegación** | *Bottom tab bar* con 4 secciones principales. |
 | **Cards** | Tarjetas con indicadores visuales de color según el estado de salud. |
 
+> 📁 **[Explorar Archivos de Diseño (UX/UI)](./docs/design/README.md):** Recursos gráficos, mapa del sitio (sitemap) y diagramas de flujos de usuario.
+
 ### 📱 Pantallas Diseñadas
 
 1. **Login / Registro**: Formulario, Google OAuth, enlace a nueva cuenta, logo y tagline.
@@ -56,8 +58,6 @@ El diseño sigue un estilo **minimalista y limpio** inspirado en aplicaciones mo
 3. **Historial Clínico**: Tabs (Consultas/Vacunas/Peso), tarjetas de visita por estado, y botón para agregar entrada.
 
 > 🔗 **[Explorar Prototipo Interactivo en Figma](https://www.figma.com/make/mHtkJckQpPvW1n0pYZBceL/Prototipo-de-Vitapet-MVP?fullscreen=1&t=JcXjeD0vHkNg6IS9-1&code-node-id=0-9)**
-> 
-> 📁 **[Explorar Archivos de Diseño (UX/UI)](./docs/design/README.md):** Recursos gráficos, mapa del sitio (sitemap) y diagramas de flujos de usuario.
 
 ---
 
