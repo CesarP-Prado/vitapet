@@ -38,22 +38,6 @@ Lograr que los usuarios registrados **reduzcan en un 40% los olvidos o retrasos 
 
 ---
 
-## 📖 Historias de Usuario Principales
-
-**1️⃣ US-01 — Alertas de Medicación**
-> *Como dueño, quiero recibir recordatorios exactos de medicación para no olvidar la dosis de mi mascota.*
-
-- **Flujo de éxito:** Hora programada → Notificación push → Abre app → Ve tarea en Home → Confirma dosis → Registrado en historial ✅
-- **Alternativo:** Usuario no abre la app → Re-recordatorio en 15 min → reintenta
-
-**2️⃣ US-02 — Registrar Consulta Médica**
-> *Como dueño, quiero registrar una consulta veterinaria para mantener el historial clínico actualizado.*
-
-- **Flujo de éxito:** Home → Tab Mascotas → Historial Clínico → Toca "+" → Llena formulario → Consulta guardada ✅
-- **Alternativo:** Formulario incompleto → Alerta de error en rojo → Regresa a corregir
-
----
-
 ## 🎨 Diseño UX/UI
 
 El diseño sigue un estilo **minimalista y limpio** inspirado en aplicaciones modernas de salud, utilizando:
@@ -72,6 +56,16 @@ El diseño sigue un estilo **minimalista y limpio** inspirado en aplicaciones mo
 3. **Historial Clínico**: Tabs (Consultas/Vacunas/Peso), tarjetas de visita por estado, y botón para agregar entrada.
 
 > 🔗 **[Explorar Prototipo Interactivo en Figma](https://www.figma.com/make/mHtkJckQpPvW1n0pYZBceL/Prototipo-de-Vitapet-MVP?fullscreen=1&t=JcXjeD0vHkNg6IS9-1&code-node-id=0-9)**
+> 
+> 📁 **[Explorar Archivos de Diseño (UX/UI)](./docs/design/README.md):** Recursos gráficos, mapa del sitio (sitemap) y diagramas de flujos de usuario.
+
+---
+
+## 📚 Documentación Técnica
+
+Toda la documentación relacionada a los esquemas de datos, la identificación de campos y la definición de Endpoints (API) ha sido documentada en el directorio `/docs`.
+
+> 🔗 **[Ver Documentación Técnica Completa](./docs/README.md)**
 
 ---
 
