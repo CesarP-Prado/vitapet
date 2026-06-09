@@ -1,3 +1,5 @@
+[⬅️ Volver al Inicio](../README.md) | [📁 Volver a Documentación](./README.md)
+
 # Historias de Usuario - Vitapet 🐾
 
 Este documento detalla las historias de usuario principales para el Producto Mínimo Viable (MVP) de Vitapet, estructuradas desde la necesidad del usuario y sus criterios de aceptación.
