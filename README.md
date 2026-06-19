@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./docs/design/logo.png" alt="Vitapet Logo" width="180"/>
+
 # 🐾 Vitapet — Salud y Bienestar Animal
 
 **App móvil de gestión médica integral en el hogar que centraliza el cuidado de las mascotas.**

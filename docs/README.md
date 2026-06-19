@@ -6,11 +6,11 @@ Esta carpeta centraliza todos los documentos, diagramas, esquemas de datos (payl
 
 ## 🗂️ Índice de Archivos
 
-- [Historias de Usuario](./historias_de_usuarios.md): Detalle de las historias de usuario y sus criterios de aceptación para el MVP.
-- [Identificación de Campos](./identificacion_de_campos.md): Mapeo de los campos requeridos en la interfaz según el prototipo de Figma.
-- [Referencia de API (Endpoints)](./endpoints.md): Documentación de las rutas, métodos HTTP y payloads de la aplicación.
-- [Payload: Registro de Usuario](./registro_usuario.json): Estructura JSON enviada al registrar una nueva cuenta.
-- [Payload: Registro de Peso](./registro_peso.json): Estructura JSON enviada al registrar un nuevo pesaje de la mascota.
+- [Historias de Usuario](business/historias_de_usuarios.md): Detalle de las historias de usuario y sus criterios de aceptación para el MVP.
+- [Identificación de Campos](architecture/contratos/identificacion_de_campos.md): Mapeo de los campos requeridos en la interfaz según el prototipo de Figma.
+- [Referencia de API (Endpoints)](architecture/README.md): Documentación de las rutas, métodos HTTP y payloads de la aplicación.
+- [Payload: Registro de Usuario](architecture/contratos/registro_usuario.json): Estructura JSON enviada al registrar una nueva cuenta.
+- [Payload: Registro de Peso](architecture/contratos/registro_peso.json): Estructura JSON enviada al registrar un nuevo pesaje de la mascota.
 
 ---
 
@@ -28,7 +28,7 @@ Esta carpeta centraliza todos los documentos, diagramas, esquemas de datos (payl
 - **Flujo de éxito:** Home → Tab Mascotas → Historial Clínico → Toca "+" → Llena formulario → Consulta guardada ✅
 - **Alternativo:** Formulario incompleto → Alerta de error en rojo → Regresa a corregir
 
-> 💡 *Para ver el detalle completo con todos los criterios de aceptación, revisa el archivo de [Historias de Usuario](./historias_de_usuarios.md).*
+> 💡 *Para ver el detalle completo con todos los criterios de aceptación, revisa el archivo de [Historias de Usuario](business/historias_de_usuarios.md).*
 
 ---
 
@@ -42,7 +42,7 @@ A continuación se resumen los campos de captura de información requeridos por 
 - **Higiene:** Mascota, Actividad, Tipo, Última vez, Próxima vez.
 - **Perfil (Cartilla de Peso):** Peso en kg.
 
-> 💡 *Para ver el detalle técnico completo y los tipos de dato de cada campo, revisa el archivo de [Identificación de Campos](./identificacion_de_campos.md).*
+> 💡 *Para ver el detalle técnico completo y los tipos de dato de cada campo, revisa el archivo de [Identificación de Campos](architecture/contratos/identificacion_de_campos.md).*
 
 ---
 
@@ -50,4 +50,4 @@ A continuación se resumen los campos de captura de información requeridos por 
 
 Actualmente, la arquitectura backend del MVP de Vitapet cuenta con rutas esenciales para los flujos de autenticación de usuario y registro clínico de la mascota. Dado que el prototipo incluye pantallas de medicación y control de higiene, esta lista se irá expandiendo.
 
-> 💡 *Para revisar las rutas exactas, métodos HTTP (`GET`, `POST`, etc.) y esquemas JSON requeridos en las peticiones, consulta la **[Referencia Completa de API (Endpoints)](./endpoints.md)**.*
+> 💡 *Para revisar las rutas exactas, métodos HTTP (`GET`, `POST`, etc.) y esquemas JSON requeridos en las peticiones, consulta la **[Referencia Completa de API (Endpoints)](architecture/README.md)**.*
