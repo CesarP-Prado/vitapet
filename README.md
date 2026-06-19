@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo.png" alt="Vitapet Logo" width="180"/>
+<img src="./docs/design/logo.png" alt="Vitapet Logo" width="180"/>
 
 # 🐾 Vitapet — Salud y Bienestar Animal
 
